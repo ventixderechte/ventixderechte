@@ -64,15 +64,7 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:ventixderechte?theme=sketch-1&padding=7&scale=1&align=center&pixelated=1&darkmode=auto"  />
-</div>
-
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ventixderechte/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@ventixderechte/0" alt="Medium post 1"  />
-  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ventixderechte.ventixderechte&left_color=darkcyan&right_color=blueviolet&left_text=Profile%20visitors"  />
 </div>
 
 ###
