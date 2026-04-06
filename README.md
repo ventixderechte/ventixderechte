@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Discord Bots & Dev Tools<br>📚 I'm currently learning: javascript, node, python, lua, bash, C++ & C#, React, mysql<br>🎯 Goals: Mastering at least one Language<br>🎲 Fun fact: I never thought I’d end up coding</p>
+<p align="center">✨ Discord Bots , Dev Tools, Scripts & more<br>📚 I'm currently learning: javascript, node, python, lua, bash, C++ & C#, React, mysql<br>🎯 Goals: Mastering at least one Language<br>🎲 Fun fact: I never thought I’d end up coding</p>
 
 ###
 
